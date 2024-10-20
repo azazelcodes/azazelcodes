@@ -1,9 +1,7 @@
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O5KB7AN) </br>
-</br>
-</br>
-❔ - I do a bit of everything really. I've dabbled my feet in the waters of Forge modding, played around with the Discord API and have done some other stuff here and there. </br>
-📖 - The language I enjoy the most is Haxe, but I also know Python, some Java and Rust. </br>
-🌍 - I'm from Munich, Germany </br>
-</br>
-</br>
-*ɪ ʀᴇᴀʟʟʏ ᴅᴏɴᴛ ʟɪᴋᴇ ᴊs, ɪᴍ sᴏʀʀʏ* ❤️
+<div align="center">
+<img align="center" src="https://github.com/user-attachments/assets/c8c41032-3dbd-4b39-8153-2cce7cc2d75c" height="333px" />
+<br/>
+<br/>
+<sub><sup>I really don't like JS, sorry not sorry!</sup></sup>
+</div>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=azazelcodes&theme=transparent&hide_border=true&hide_total_contributions=true&ring=3A6188&fire=3A6188&currStreakNum=6D8296&currStreakLabel=3A6188&sideNums=6D8296&sideLabels=3A6188" alt="GitHub Streak" /></a>
